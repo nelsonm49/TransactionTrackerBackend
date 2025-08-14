@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+# Environment variables
+.env
+.env.*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.swp
+
+# IDE/editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage/test
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+.mypy_cache/
